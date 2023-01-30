@@ -1,0 +1,17 @@
+<!-- about page -->
+<p>
+  Hello, my name is Jeongwoon.  I am a dedicated professional with over
+           5 years of combined experience in hospitality, event planning, small
+            business marketing and security. Currently, I am seeking to work 
+            in a corporate environment that can challenge me and willing to train me
+            to grow within the company.
+  <a href="https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA"
+    >coding addict</a
+  >
+</p>
+
+<!-- contact page-->
+<p>
+  If you are looking to get ahold of me, you can send me an email at
+  <a href="mailto:jeongwooneu@gmail.com">jeongwooneun@gmail.com</a>
+</p>
